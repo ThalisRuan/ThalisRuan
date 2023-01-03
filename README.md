@@ -21,6 +21,6 @@ Em meus repositórios você encontrará projetos usando: <br/>
 
   And much more.<br/> <br/> 
 
-- 🔭 Atualmente estou estudando sobre arquitetura de Cloud aplicada a banco de dados; 
+- 🔭 Atualmente estou estudando aplicações back-end com Node.JS, sou aluno do BootCamp GoStack da RocketSeat.; 
 - 📫 Email: thalissantos92@gmail.com
 
